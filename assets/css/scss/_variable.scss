@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+$line-theme:			#0963de !default;
+$line-theme2:			#2d7be9 !default;
+
+$line-bg-1:			#ff97a0 !default;
+$line-bg-2:			#ff6d91 !default;
+$line-bg-3:			#FECCB5 !default;
+$line-bg-4:			#afa100 !default;
+$line-bg-5:			#00b755 !default;
+$line-bg-6:			#ff707f !default;
+
+$line-dark:			#373737 !default;
+
+$line-white:			#fff !default;
+$line-black:			#000 !default;
+
+$line-gray:			rgba($line-theme2, .10) !default;
+
+
+$line-font-size:		15px !default;
+$line-line-height:	1.7 !default;
+$line-font:			'Jost', sans-serif !default;
+
+
+$line-shadow:			0 .375rem 1.5rem 0 rgba(140,152,164,.125) !default;
+$line-shadow-sm:		0 12px 15px rgba(140,152,164,.1) !default;
+
+$first-hue:         250;
+// Breakpoints
+$line-media-xsm:		567px !default;
+$line-media-sm:		767px !default;
+$line-media-md:		991px !default;
+$line-media-lg:		1200px !default;
